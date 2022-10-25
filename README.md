@@ -1,9 +1,9 @@
 # 3d_space_shooter
-Development of 2D Space Shooter Game
+Development of 3D Space Shooter Game
 
 # What's included with this project
 
-2D Space Shooter Game developed for the Game Development Course at Univali University, Brazil 2018.
+3D Space Shooter Game developed for the Game Development Course at Univali University, Brazil 2018.
 
 Build file containing the playable game
 
